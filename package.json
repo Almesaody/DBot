@@ -1,14 +1,14 @@
 {
   "name": "dbot",
   "version": "1.0.1",
-  "description": "A way to interface with Doscprd API",
+  "description": "A way to interface with Discord API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://githunpm b.com/Almesaody/dbot.git"
+    "url": "git+https://github.com/Almesaody/dbot.git"
   },
   "keywords": [
     "discord",
