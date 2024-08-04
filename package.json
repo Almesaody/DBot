@@ -1,6 +1,6 @@
 {
   "name": "dbot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A way to interface with Discord API",
   "main": "index.js",
   "scripts": {
